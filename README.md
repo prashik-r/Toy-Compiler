@@ -1,4 +1,4 @@
-# Toy Compiler
+# Toy-Compiler
 
 The project presents a simple toy compiler to perform various phases of the compilation process. The tools used to develop the compiler are [Flex](https://www.geeksforgeeks.org/flex-fast-lexical-analyzer-generator/) and [Yacc](https://www.geeksforgeeks.org/introduction-to-yacc/).
 
